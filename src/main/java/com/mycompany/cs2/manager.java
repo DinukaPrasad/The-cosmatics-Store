@@ -39,7 +39,7 @@ public class manager implements Function {
             }
             else
             {
-                System.out.println("\nINCORRECT TASK NO !!!");
+                System.out.println("\nIncorrect task ID !!!");
                 x = false;
             }
         
@@ -192,11 +192,11 @@ public class manager implements Function {
             // Check Item found status 
             if(cs.found == false )
             { 
-                System.out.println("Item Not Found !!");
+                System.out.println("Item Not Found !!!");
             }
             else
             {
-                System.out.println("Item Found !!");           
+                System.out.println("Item Found !!!");           
             }
             
             // research condition

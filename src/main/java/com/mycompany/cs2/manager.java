@@ -178,8 +178,8 @@ public class manager implements Function {
                             System.out.println("\nResult "+resultno+":"+" # ID       - "+word[0]+
                                                               "\n\t  # Name     - "+word[1]+
                                                               "\n\t  # Price    - "+word[2]+
-                                                              "\n\t  # Catagory - "+word[3]+
-                                                              "\n\t  # Quontity - "+word[4]); 
+                                                              "\n\t  # Category - "+word[3]+
+                                                              "\n\t  # Quantity - "+word[4]); 
                         }
                     }
                     scn.close();

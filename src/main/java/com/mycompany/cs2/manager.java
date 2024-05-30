@@ -192,11 +192,11 @@ public class manager implements Function {
             // Check Item found status 
             if(cs.found == false )
             { 
-                System.out.println("Item Not Found !!");
+                System.out.println("Item Not Found !!!");
             }
             else
             {
-                System.out.println("Item Found !!");           
+                System.out.println("Item Found !!!");           
             }
             
             // research condition
